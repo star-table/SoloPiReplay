@@ -20,15 +20,15 @@
 ###ACTIONCHAIN/NODE
 		通过解析solopi导出的json脚本,将每一步的操作信息收纳在每个Node之中(即Node类)
 		再将所有node对象添加进ACTIONINFO类中,达到json一个脚本作为一个ACTIONCHAIN(动作链)
-![Image text](http://gitea.polaris.com/allstar/solopiReplay/raw/branch/master/IMAGE/NODE.PNG)
+![Image text](https://raw.githubusercontent.com/galaxy-book/SoloPiReplay/master/IMAGE/NODE.PNG)
 
 ###OPERATION
 		Operation类作为所有事件的重写类,通过解析Node中method属性,使用类反射进行调用
-![Image text](http://gitea.polaris.com/allstar/solopiReplay/raw/branch/master/IMAGE/CLICK.PNG)
+![Image text](https://raw.githubusercontent.com/galaxy-book/SoloPiReplay/master/IMAGE/CLICK.PNG)
 
 ###LOG
 		您可以在log目录下查看程序运行时的log日志
-![Image text](http://gitea.polaris.com/allstar/solopiReplay/raw/branch/master/IMAGE/log.PNG)
+![Image text](https://raw.githubusercontent.com/galaxy-book/SoloPiReplay/master/IMAGE/log.PNG)
 
 ###FOLLOW UP
 		1.使用坐标换算定位,不同手机兼容性差,后续将进行优化
@@ -36,4 +36,4 @@
 ###您可以通过以下方式联系我们
 钉钉:
 
-<img src="http://gitea.polaris.com/allstar/solopiReplay/raw/branch/master/IMAGE/pic.jpg" width=400 height=400>
+<img src="https://raw.githubusercontent.com/galaxy-book/SoloPiReplay/master/IMAGE/pic.jpg" width=400 height=400>
