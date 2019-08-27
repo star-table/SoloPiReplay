@@ -1,5 +1,5 @@
-#solopiReplay
-		该项目是为了实现便捷的移动端自动化测试,达到随时录制脚本,上传云端并在多台设备中同时回放
+#SolopiReplay
+		该项目是为了实现便捷的移动端自动化测试，达到随时录制脚本，上传云端并在多台设备中同时回放
 		solopiReplay是基于silopi录制功能产出的json脚本,以python appium库进行解析,通过xpath以及换算坐标定位进行回放.
 		(目前坐标换算存在手机兼容性问题,可能存在定位不准确)
 ##Requirements
