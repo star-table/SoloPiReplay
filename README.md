@@ -34,8 +34,13 @@
 ![Image text](https://raw.githubusercontent.com/galaxy-book/SoloPiReplay/master/IMAGE/log.PNG)
 
 ### FOLLOW UP
-		1.使用坐标换算定位,不同手机兼容性差,后续将进行优化
-		2.部分事件未进行重写,例如循环,断言,判断...
+		1.后续将优化兼容性问题
+		2.将所有事件进行重写
+		3.通过stf集群管理
+### problems
+		1.使用坐标定位时，手机分辨率引起定位不准确
+		2.无法解析solopi返回的图像数据
+		3.项目的完善需要更多人参与进来，有兴趣的朋友可以贡献一份力量，感谢。
 ### 您可以通过以下方式联系我们
 钉钉:
 
